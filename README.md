@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/twgbavpjjgr2cmsr/branch/master?svg=true)](https://ci.appveyor.com/project/fattota/changedatedeliveryorder/branch/master)
